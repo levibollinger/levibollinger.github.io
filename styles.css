@@ -1,0 +1,71 @@
+html {
+    background-color: white;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    max-width: 1000px;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 50%;
+    height: auto;
+}
+
+a {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Raleway', sans-serif;
+}
+
+#contactInfo {
+    margin: auto;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    width: 250px;
+}
+
+#levi {
+    border-radius: 10px;
+}
+
+#seperation {
+    border: solid;
+    border-width: 5px;
+    background-color: dimgray;
+    border-radius: 10px;
+    border-color: dimgray;
+    max-width: 70%;
+    margin: auto;
+}
+
+.contactP {
+    margin: auto;
+}
+
+#emailLink {
+    font-family: 'Raleway', sans-serif;
+}
+
+.link-wrapper {
+    text-align: center;
+}
