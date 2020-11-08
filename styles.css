@@ -35,7 +35,7 @@ a {
     font-family: 'Raleway', sans-serif;
 }
 
-#contactInfo {
+.contactInfo {
     margin: auto;
     text-align: center;
     border-style: solid;
@@ -46,6 +46,10 @@ a {
 
 #levi {
     border-radius: 10px;
+}
+
+#mark {
+    height: 1em;
 }
 
 #seperation {
